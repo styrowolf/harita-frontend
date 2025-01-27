@@ -12,6 +12,8 @@ GeoJSON files to PMTiles, a format that makes geospatial data accessible tile by
 Supabase is used as the authentication provider as it allows login through Google (Dartmouth accounts only, but that could be configured).
 It is also used as the library to access the PostgreSQL database.
 
+See (`photos/`)[photos/] for screenshots.
+
 ## Setup instructions
 
 ### Frontend
